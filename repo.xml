@@ -1,14 +1,14 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>Follow me on Telegram</name>
+			<url>https://tm.me/Sniper_iOs</url>
+			<iconclass>Sniper Engine</iconclass>
 		</link>
 		<link>
 			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<url>https://github.com/SniperEngine/Repo/</url>
+			<iconclass>SniperEngine-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
 </repo>
