@@ -1,0 +1,44 @@
+<package>
+	<id>com.Sniper.paradeisos-iphoneos-arm64-arm64e</id>
+	<name>SniperCheat</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Cheating in PUBG Mobile using "Sniper Cheats" is considered one of the best cheating methods in PUBG and is compatible with iOS only.</shortDescription>
+	<descriptionlist>
+		<description> </description>
+		<description> </description>
+		<description><![CDATA[
+		 
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description> </description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description> </description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>SniperCheat</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
